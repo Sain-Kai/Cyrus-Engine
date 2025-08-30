@@ -3,7 +3,6 @@
 
 ![Cyrus Engine Banner](https://github.com/Sain-Kai/Cyrus-Engine/assets/your-banner-placeholder)
 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue)]()
@@ -119,18 +118,18 @@ Cyrus Engine aims to merge **real-time rendering with intelligence**. Planned fe
 ---
 
 ## 📂 Project Structure (Planned)
+```
 /CyrusEngine
-├── Core/ # Application, Game Loop, Window, Input
-├── Graphics/ # Renderer, Shaders, Camera, Lighting
-├── Math/ # Vectors, Matrices, Quaternions (GLM wrapper)
-├── ECS/ # Entities, Components, Systems
-├── Assets/ # Resource loaders (stb_image, Assimp)
-├── Scripts/ # Lua integration (future)
-├── Audio/ # OpenAL / SDL_mixer (future)
-├── Tools/ # Debug UI, Profiling, Scene Editor
-└── Examples/ # Demo projects (2D platformer, 3D scene viewer)
-
-
+ ├── Core/              # Application, Game Loop, Window, Input
+ ├── Graphics/          # Renderer, Shaders, Camera, Lighting
+ ├── Math/              # Vectors, Matrices, Quaternions (GLM wrapper)
+ ├── ECS/               # Entities, Components, Systems
+ ├── Assets/            # Resource loaders (stb_image, Assimp)
+ ├── Scripts/           # Lua integration (future)
+ ├── Audio/             # OpenAL / SDL_mixer (future)
+ ├── Tools/             # Debug UI, Profiling, Scene Editor
+ └── Examples/          # Demo projects (2D platformer, 3D scene viewer)
+```
 
 ---
 
