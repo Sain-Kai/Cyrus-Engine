@@ -1,7 +1,7 @@
 # 🚀 Cyrus Engine
 *A 2D to 3D Game Engine built from scratch in C++ and OpenGL*
 
-![Cyrus Engine Banner](https://github.com/Sain-Kai/Cyrus-Engine/assets/your-banner-placeholder)
+![Cyrus Engine Banner]![Cyrus Engine Banner](assets/cyrus-banner.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
