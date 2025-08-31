@@ -1,0 +1,3 @@
+/home/sohan-manna/CyrusEngine/src/build/CMakeFiles/CyrusEngine.dir
+/home/sohan-manna/CyrusEngine/src/build/CMakeFiles/edit_cache.dir
+/home/sohan-manna/CyrusEngine/src/build/CMakeFiles/rebuild_cache.dir

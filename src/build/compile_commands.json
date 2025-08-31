@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sohan-manna/CyrusEngine/src/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/CyrusEngine.dir/src/main.cpp.o -c /home/sohan-manna/CyrusEngine/src/main.cpp",
+  "file": "/home/sohan-manna/CyrusEngine/src/main.cpp",
+  "output": "CMakeFiles/CyrusEngine.dir/src/main.cpp.o"
+}
+]
